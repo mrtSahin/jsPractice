@@ -1,5 +1,7 @@
 
 
+//13.06.2022
+
 let findPrime=function(...numbers){
     let primeNumbers=[]  // asal sayıları ekleeceğimiz dizimiz
     for (let i = 0; i < numbers.length; i++) {
