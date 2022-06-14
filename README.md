@@ -1,1 +1,1 @@
-Kodları çalıştırabilmek için VSCode içerisinde Live Server eklentisi kurulu olmalı.
+Kodları çalıştırabilmeniz için VSCode içerisinde Live Server eklentisinin kurulu olması gerekli.
