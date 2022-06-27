@@ -1,4 +1,4 @@
-index.html dosyası calculator.js çalışması için bu şekilde olmalıdır. sonradan diğer projeler için eski haline getirilmeilidir
+##index.html dosyası calculator.js çalışması için bu şekilde olmalıdır. sonradan diğer projeler için eski haline getirilmeilidir
 
 “`
 <!DOCTYPE html>
