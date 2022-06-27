@@ -1,0 +1,29 @@
+##index.html dosyası calculator.js çalışması için bu şekilde olmalıdır. sonradan diğer projeler için eski haline getirilmeilidir
+
+“`
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>JS-Practice</title>
+    <style type="text/css">
+      body {margin: 30px;
+      padding-left: 15px;
+    padding-top: 5px;}
+    </style>
+  </head>
+  <body>
+    <form>
+      birinici sayı: <input type="number" id="birinciSayi"/><br><br> <!-- nesneleri id leri ile çağıracağımızdan isimlendirmede dikkat etmeli-->
+      ikinici sayı : <input type="number" id="ikinciSayi" /><br><br> <!-- iki br etiketi ile iki satır aşağı iniyoruz.-->
+      <input type="button" onClick="topla()" Value="Topla" /> <!--onClick() ile butona ait metodu belirliyoruz-->
+      <input type="button" onClick="cikar()" Value="Çıkar" />
+      <input type="button" onClick="carp()" Value="Çarp" />
+      <input type="button" onClick="bol()" Value="Böl" />
+    </form>
+    <p> Sonuç : <br>
+      <span id = "sonuc"></span>
+    </p>
+    <script src="src/practice03/calculator.js"></script>
+  </body>
+</html>
+“`
