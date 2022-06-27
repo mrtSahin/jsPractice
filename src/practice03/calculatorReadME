@@ -1,6 +1,5 @@
-##index.html dosyası calculator.js çalışması için bu şekilde olmalıdır. sonradan diğer projeler için eski haline getirilmeilidir
+index.html dosyası calculator.js çalışması için bu şekilde olmalıdır. sonradan diğer projeler için eski haline getirilmeilidir
 
-“`
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -26,4 +25,3 @@
     <script src="src/practice03/calculator.js"></script>
   </body>
 </html>
-“`
