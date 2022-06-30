@@ -5,6 +5,7 @@
 // <80	 C
 // <90	 B
 // <100  A
+
 const students=[
     {isim:'David',puan:100},
     {isim:'Vinoth',puan:59},
